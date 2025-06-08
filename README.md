@@ -25,22 +25,12 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Im-binay&show_icons=true&theme=tokyonight" alt="Binay's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-binay&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Im-binay&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/binay-sharma-3507652a1/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)](https://your-portfolio-link.com)
 
----
+--
 
 <p align="center">
   Crafted with ❤️ in Nepal
