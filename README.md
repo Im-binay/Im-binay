@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Binay Sharma
+🎓 BCA Final Year | 💻 Frontend Developer Intern @ Akshyaraanga  
+📍 Based in Nepal | 🌐 Passionate about building user-friendly web apps
 
-<!--
-**Im-binay/Im-binay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- HTML, Tailwind CSS, JavaScript
+- Figma for UI/UX
+- Learning: React, Android (Java/Kotlin)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+🔹 [Courier Tracking System](https://github.com/Im-binay/CourierTrackingProject) — Real-time parcel tracking for logistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/binay-sharma-3507652a1/](#)
+- Portfolio: [yourportfolio.com](#)
+
+---
