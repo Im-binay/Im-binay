@@ -27,8 +27,8 @@
 
 
 ### 📫 Let's Connect
-[![LinkedIn](https://www.linkedin.com/in/binay-sharma-3507652a1/)  
-[![Portfolio](https://binay-sharma.com.np/)
+[LinkedIn](https://www.linkedin.com/in/binay-sharma-3507652a1/)  
+[Portfolio](https://binay-sharma.com.np/)
 
 --
 
