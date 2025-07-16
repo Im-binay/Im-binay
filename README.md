@@ -21,10 +21,6 @@
 - 📦 **Courier Tracking System** — Real-time parcel tracking using Laravel  
 - 🌐 **Portfolio Website** — HTML, Tailwind CSS, AOS animations  
 
-👉 [🌍 Visit My Portfolio](https://binay-sharma.com.np/)
-
----
-
 
 ### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/binay-sharma-3507652a1/)  
