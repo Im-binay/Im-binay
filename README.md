@@ -34,6 +34,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Im-binay&theme=radical)](https://git.io/streak-stats)
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Im-binay)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-binay&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   Crafted with ❤️ in Nepal
 </p>
