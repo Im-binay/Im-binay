@@ -34,6 +34,13 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=binaysharma&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://binay-sharma.com.np/"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge"/></a>
@@ -45,6 +52,13 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/binaysharma/binaysharma/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Visitors Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=binaysharma&label=Profile%20Views&color=0e75b6&style=flat-square" alt="binaysharma" />
 </p>
 
 ---
